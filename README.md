@@ -1,5 +1,5 @@
 # Bokeh-with-Pandas
-A very basic implementation of how to use bokeh while working on your data analysis project.
+A very basic implementation of how to use bokeh while working on your data analysis project. An html file named **"Line_from_csv"** will created containing the graph.
 
 <br></br>
 **Snapshot of the Data**
